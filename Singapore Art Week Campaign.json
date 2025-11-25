@@ -7,7 +7,7 @@
  "createdBy": "Firman",
  "templates": [
   {
-   "content": "Vist Singapore Art Week 2026 exhibitions, installations and events near your current location!",
+   "content": "Vist Singapore Art Week 2026 exhibitions near your current location!",
    "templateType": "HOME_SCREEN_PROMPT",
    "styles": {
     "type": "discovery",
@@ -63,7 +63,7 @@
    ]
   },
   {
-   "content": "Vist Singapore Art Week 2026 exhibitions, installations and events near your destination!",
+   "content": "Vist Singapore Art Week 2026 exhibitions near your destination!",
    "templateType": "HOME_SCREEN_PROMPT",
    "styles": {
     "type": "discovery",
@@ -119,7 +119,7 @@
    ]
   },
   {
-   "content": "Vist Singapore Art Week 2026 exhibitions, installations and events while en-route to your desination!",
+   "content": "Vist Singapore Art Week 2026 exhibitions while en-route to your desination!",
    "templateType": "ROUTE_SCREEN_PROMPT",
    "styles": {
     "type": "discovery",
